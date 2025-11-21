@@ -25,6 +25,7 @@ public class Mathoperator
          System.out.println();
          int x= 5;
           System.out.println("pre increment"+ ++x);
+          System.out.println(x);
           System.out.println("post increment"+ x++);
           System.out.println(x);
           System.out.println();

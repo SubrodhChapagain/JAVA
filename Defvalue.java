@@ -2,7 +2,7 @@
 
 public class Defvalue
 {
-    int a;
+    int a;  // INSTANCE VARIABLES
     float b;
     short c;
     long d;

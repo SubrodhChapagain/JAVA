@@ -4,11 +4,11 @@ public class literal
 {
     public static void main (String[]args){
     
-    int a = 10;
-     float b = 10.934787f;
+    int a = 12;
+     float b = 99.196677f;
      int hexa = 0x1011;
      int binary = 0b1111;
-     double c = 19.111d;
+     double c = 9.8111d;
      long d = 1819819189L;
      short e = 19191;
      byte f = 10;
