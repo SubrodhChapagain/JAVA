@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class Defvalue here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class Defvalue
 {
     int a;

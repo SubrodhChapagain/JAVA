@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Write a description of class grade here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class grade
 {
     public static void main (String[]args){

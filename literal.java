@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class literal here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class literal
 {
     public static void main (String[]args){

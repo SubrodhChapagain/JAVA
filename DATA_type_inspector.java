@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class DATA_type_inspector here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class DATA_type_inspector
 {
     public static void main (String[]args){

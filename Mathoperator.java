@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class Mathoperator here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class Mathoperator
 {
     public static void main (String[]args){
@@ -38,7 +33,7 @@ public class Mathoperator
           System.out.println();
           int s=4;
           int f = 5;
-          int c = s+f; // here = is assignment operator.
+          int c = s+f; // here "=" is assignment operator.
           System.out.println();
           
           System.out.println("4.RELATIONAL");
