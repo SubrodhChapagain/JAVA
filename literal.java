@@ -23,6 +23,9 @@ public class literal
       System.out.println(hexa);
       System.out.println(binary);
       
+      System.out.println();
+    System.out.println("copyright " +"\u00A9");
+    
     
     }
 }
